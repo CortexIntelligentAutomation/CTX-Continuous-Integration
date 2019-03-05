@@ -43,7 +43,8 @@ The Continuous Integration module requires the following files:
 * [CTX-ContinuousIntegration Database update script](https://github.com/CortexIntelligentAutomation/CTX-Continuous-Integration/releases/download/v1.0/Cortex-ContinuousIntegration-Install.sql)
 
 ### Other
-The Continuous Integration module has the following additional requirements which are explained in detail in the [Installation section](#Installation):<Other Requirements>
+The Continuous Integration module has the following additional requirements:
+* CTX-Logging module
 
 ## Installation
 Details of the installation can be found in the [Continuous Integration Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-Continuous-Integration/blob/master/CTX-Continuous-Integration%20-%20Deployment%20Plan.pdf).
