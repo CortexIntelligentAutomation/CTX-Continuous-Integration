@@ -1,3 +1,4 @@
+
 <a href="https://www.cortex-ia.co.uk/" target="_blank"><img src="https://github.com/CortexIATest/CTXImages/blob/master/Cortex-350-120.png" alt="Welcome to Cortex!" width="350" height="120" border="0"></a>
 
 # Continuous Integration Cortex Module
@@ -8,7 +9,7 @@ The module allows users to perform the following initial functionality:
 * Import test cases on the package
 * Visualise previously executed test cases and test plans
 
-Once a flow has been imported:
+Once a flow or a subtask has been imported:
 * Further test cases may be defined, saved and executed
 * Test cases may be grouped into test plans that may be saved and executed
 
@@ -59,6 +60,13 @@ Continuous Integration has the following versions, starting with the most recent
 
 Version | Release | Functionality | Notes
 ------------ | ------------- | ----------- | -----------
+v1.1 | 16/05/2019 | AutomatedTest-Subtask-Test-Flow-Template | Created
+v1.1 | 16/05/2019 | CCI-Package-Deployment-UI | Updated
+v1.1 | 16/05/2019 | CCI-Package-Deployment | Updated
+v1.1 | 16/05/2019 | CCI-Test-Management-UI | Updated
+v1.1 | 16/05/2019 | CCI-Test-Cases-Execution | Updated
+v1.1 | 16/05/2019 | AutomatedTest-IVID-Insert-Variables-Into-Database | Updated
+v1.1 | 16/05/2019 | AutomatedTest-RTOF-Run-Test-On-Flow | Updated
 v1.0 | 21/02/2019 | CCI-Package-Deployment-UI | Created 
 v1.0 | 21/02/2019 | CCI-Package-Deployment | Created 
 v1.0 | 21/02/2019 | CCI-Deployment-Process-UI | Created 
