@@ -20,6 +20,7 @@ Once a flow or a subtask has been imported:
     * [OCIs](#ocis)
     * [Files](#files)
     * [Other](#other)
+1) [Support and Warranty](#support-and-warranty)
 2) [Installation](#installation)
 3) [How to use](#how-to-use)
 4) [How you can contribute](#how-you-can-contribute)
@@ -46,6 +47,9 @@ The Continuous Integration module requires the following files:
 ### Other
 The Continuous Integration module has the following additional requirements:
 * CTX-Logging module
+
+## Support and Warranty 
+This module is supplied as a template that you can amend and extend to fit your requirements, as such it is not supported as part of the Cortex Product suite under the Cortex product support agreement.
 
 ## Installation
 Details of the installation can be found in the [Continuous Integration Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-Continuous-Integration/blob/master/CTX-Continuous-Integration%20-%20Deployment%20Plan.pdf).
