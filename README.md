@@ -30,7 +30,7 @@ Once a flow or a subtask has been imported:
 
 ## Dependencies
 ### Cortex Version
-This version of the Continuous Integration module was developed in Cortex version 6.4. Some functionality may not be available on different versions of Cortex.
+This version of the Continuous Integration module was developed in Cortex version 7.1. Some functionality may not be available on different versions of Cortex.
 
 ### OCIs
 The  module requires the following Cortex OCIs:
