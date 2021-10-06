@@ -40,9 +40,9 @@ The  module requires the following Cortex OCIs:
 ### Files
 The Continuous Integration module requires the following files:
 * [CTX-Logging.studiopkg](https://github.com/CortexIntelligentAutomation/CTX-Logging/releases/download/v1.0/CTX-Logging.studiopkg)
-* [CTX-Logging Database create script](https://github.com/CortexIntelligentAutomation/CTX-Logging/releases/download/v1.0/Cortex-Logging-Install.sql)
-* [CTX-Continuous-Integration.studiopkg](https://github.com/CortexIntelligentAutomation/CTX-Continuous-Integration/releases/download/v1.1/CTX-ContinuousIntegration.studiopkg)
-* [CTX-ContinuousIntegration Database update script](https://github.com/CortexIntelligentAutomation/CTX-Continuous-Integration/releases/download/v1.1/Cortex-ContinuousIntegration-Install.sql)
+* [CTX-Logging Database create script](https://github.com/CortexIntelligentAutomation/CTX-Continuous-Integration/releases/download/v1.2/Cortex-Logging-Install.sql)
+* [CTX-Continuous-Integration.studiopkg](https://github.com/CortexIntelligentAutomation/CTX-Continuous-Integration/releases/download/v1.2/CTX-ContinuousIntegration.studiopkg)
+* [CTX-ContinuousIntegration Database update script](https://github.com/CortexIntelligentAutomation/CTX-Continuous-Integration/releases/download/v1.2/Cortex-ContinuousIntegration-Install.sql)
 
 ### Other
 The Continuous Integration module has the following additional requirements:
