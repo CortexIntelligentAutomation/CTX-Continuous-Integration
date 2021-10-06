@@ -64,6 +64,12 @@ Continuous Integration has the following versions, starting with the most recent
 
 Version | Release | Functionality | Notes
 ------------ | ------------- | ----------- | -----------
+v1.2 | 21/02/2019 | Gateway-EF-Export-Flows | Updated 
+v1.2 | 21/02/2019 | Gateway-GAT-Get-Authentication-Token | Updated 
+v1.2 | 21/02/2019 | Gateway-GIFS-Get-Ids-From-StudioPackage | Updated 
+v1.2 | 21/02/2019 | Gateway-ISP-Import-Studio-Package | Updated 
+v1.2 | 21/02/2019 | AutomatedTest-RTOF-Run-Test-On-Flow | Updated
+v1.2 | 21/02/2019 | CCI-Package-Deployment-UI | Updated 
 v1.1 | 16/05/2019 | AutomatedTest-Subtask-Test-Flow-Template | Created
 v1.1 | 16/05/2019 | CCI-Package-Deployment-UI | Updated
 v1.1 | 16/05/2019 | CCI-Package-Deployment | Updated
